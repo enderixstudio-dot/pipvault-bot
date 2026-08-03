@@ -22,7 +22,7 @@ const client = new Client({
 });
 
 const ADMIN_ID = '463437979168407555';
-const TOKEN = '4xMJMy67BgU0bGAPAtCxamuql6MXCLHl';
+const TOKEN = 'MTUzMzk2NzY2NjI0MTM0MzU1OA.G0J5EG.Q3O-mAEDrWcTZVRwLdoT0Aa7C-yLH5rlXBpGr0';
 
 client.once('ready', async () => {
     console.log(`Zalogowano pomyślnie jako ${client.user.tag}! Bot PipVault jest gotowy.`);
